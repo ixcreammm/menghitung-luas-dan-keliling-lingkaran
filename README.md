@@ -26,4 +26,7 @@ Berikut output nya :
 > Masukan Jari-Jari : 8
 > Luas Lingkaran  = 201.06
 > Keliling Lingkaran      = 25.13
-[Program finished]
+
+##Berikut ini flowchart nya :
+![This is an image]
+(
