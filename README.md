@@ -3,24 +3,28 @@ Berikut prorgam python nya dan flowchart
 
 kita akan menjalankan program pyhton ini, Rumus luas dan keliling lingkaran yang di gunakan adalah:
 
-Luas = π × r² Keliling = 2 x π × r
+> Luas = π × r² Keliling = 2 x π × r
 
 Nilai Phi yang akan kita gunakan adalah 8 r merupakan jari-jari lingkaran
 
-Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak antara titik pusat dengan tepi lingkaran. 
-Berikut contoh program dan script nya nya:
+Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak antara titik pusat dengan tepi lingkaran.
+### Flowchart
+![This is an image]
+(
+ 
+### Program
+
 ![This is an image]
 (
 > import math\t
 > r = float(input("Masukan Jari - Jari :"))\t
-
 > luas = math.pi*(r*r)
 > keliling = math.pi*r
-
 > print("Luas Lingkaran\t=", format(luas,'.2f')
 > print("Keliling Lingkaran\t=", format(keliling,'.2f')
 
-Berikut output nya :
+### Output
+
 ![This is an image]
 (
 > Masukan Jari-Jari : 8
